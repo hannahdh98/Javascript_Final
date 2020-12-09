@@ -1,3 +1,13 @@
+
+1. Open your terminal/gitbash
+2. type: npm install #this will install the node modules for this project
+3. run npm start #this will start the project and open it in your preferred browser API is from https://covidtracking.com/data/api
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
