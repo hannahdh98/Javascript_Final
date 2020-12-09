@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(199, 247, 209);
+  }
+  
+  h2 {
+    color: white;
+  }
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .image {
+    width: 100px;
+    margin-top: 50px;
+  }
+
+  @media only screen and (max-width: 770px){
+    .container{
+      width: 100%;
+      height: auto;
+      overflow-x: hidden;
+    }
+  }
+img{
+  width: 300px;
+  height: auto;
+}
